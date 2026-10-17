@@ -14,4 +14,4 @@ O problema Add Two Numbers consiste em receber duas listas encadeadas não vazia
   * Nenhum ponto pendente, todos os testes foram executados com sucesso.
 
 ## Uso de IA
-Durante o desenvolvimento da solução final, utilizei auxílio de Inteligência Artificial para estruturar a lógica limpa utilizando um nó sentinela e o controle do carry no loop de percorrimento. Isso me ajudou a evitar duplicação de código e falhas de ponteiro na cabeça da lista.
+Durante o desenvolvimento da solução final, utilizei auxílio de Inteligência Artificial para estruturar a lógica limpa utilizando um nó sentinela e o controle do carry no loop. Isso me ajudou a evitar duplicação de código e falhas de ponteiro na cabeça da lista.
